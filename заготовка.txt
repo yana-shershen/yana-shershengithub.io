@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE>сайт №1</TITLE> 
+</HEAD>
+<BODY TEXT="RED">
+привіт мене звати Оля
+</BODY>
+</HTML>
+
+d:\фото\Новий 2009р (в дома)\DSC00673.JPG
+
+<body background="Seabg.jpg" text="purple">
+фон7.bmp
